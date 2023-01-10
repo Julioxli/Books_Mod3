@@ -6,3 +6,5 @@ git checkout -b main (dei play)
 Abre o terminal ao lado do nome da pasta coloca npm instal node-fetch@2 (dar play)
 Precisa aparecer node_modules, package-lock.json, package.json
 npm i json-server (dar play)
+Vai para o GitBash da um git status (dar play)
+git add . (dar play)
