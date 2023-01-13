@@ -8,3 +8,4 @@ Precisa aparecer node_modules, package-lock.json, package.json
 npm i json-server (dar play)
 Vai para o GitBash da um git status (dar play)
 git add . (dar play)
+Local do Vite: http://localhost:5173/
